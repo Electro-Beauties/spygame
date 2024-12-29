@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":true,"name":"intro","order":1,"parentId":0,"scrollX":1216.5,"scrollY":674.25},
+{"id":2,"expanded":false,"name":"inboat","order":2,"parentId":0,"scrollX":811,"scrollY":449.5,"quick":false},
+{"id":3,"expanded":false,"name":"boatdownstairs","order":3,"parentId":0,"scrollX":832,"scrollY":624,"quick":false},
+{"id":4,"expanded":false,"name":"mainmap","order":4,"parentId":0,"scrollX":2842.909090909091,"scrollY":3981.2727272727275,"quick":false},
+{"id":5,"expanded":false,"name":"kirtonmountains","order":5,"parentId":0,"scrollX":1515.2727272727273,"scrollY":978,"quick":false},
+{"id":6,"expanded":false,"name":"dungeon1","order":6,"parentId":0,"scrollX":2736,"scrollY":2400.5454545454545,"quick":false}
+]
