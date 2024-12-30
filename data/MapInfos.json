@@ -3,10 +3,12 @@ null,
 {"id":1,"expanded":true,"name":"intro","order":1,"parentId":0,"scrollX":1216.5,"scrollY":674.25},
 {"id":2,"expanded":false,"name":"inboat","order":2,"parentId":0,"scrollX":811,"scrollY":449.5,"quick":false},
 {"id":3,"expanded":false,"name":"boatdownstairs","order":3,"parentId":0,"scrollX":973.1999999999999,"scrollY":539.4,"quick":false},
-{"id":4,"expanded":false,"name":"mainmap","order":4,"parentId":0,"scrollX":2053.2,"scrollY":4231.8,"quick":false},
-{"id":5,"expanded":false,"name":"kirtonmountains","order":5,"parentId":0,"scrollX":1515.2727272727273,"scrollY":978,"quick":false},
+{"id":4,"expanded":false,"name":"mainmap","order":4,"parentId":0,"scrollX":3826.7999999999997,"scrollY":3757.7999999999997,"quick":false},
+{"id":5,"expanded":false,"name":"kirtonmountains","order":5,"parentId":0,"scrollX":1426,"scrollY":640,"quick":false},
 {"id":6,"expanded":false,"name":"dungeon1","order":6,"parentId":0,"scrollX":2736,"scrollY":2400.5454545454545,"quick":false},
 {"id":7,"expanded":false,"name":"deepdivetavern","order":7,"parentId":0,"scrollX":973.1999999999999,"scrollY":539.4,"quick":false},
-{"id":8,"expanded":false,"name":"northsea","order":8,"parentId":0,"scrollX":1228.8,"scrollY":6514.2,"quick":false},
-{"id":9,"expanded":false,"name":"forestofthedead","order":9,"parentId":0,"scrollX":3984,"scrollY":2458,"quick":false}
+{"id":8,"expanded":false,"name":"northsea","order":8,"parentId":0,"scrollX":4844.4,"scrollY":539.4,"quick":false},
+{"id":9,"expanded":false,"name":"forestofthedead","order":9,"parentId":0,"scrollX":3984,"scrollY":2458,"quick":false},
+{"id":10,"expanded":false,"name":"dungeon2","order":10,"parentId":0,"scrollX":1725.6,"scrollY":4252.2,"quick":false},
+{"id":11,"expanded":false,"name":"dungeon2_boss","order":11,"parentId":0,"scrollX":973.1999999999999,"scrollY":539.4,"quick":false}
 ]
