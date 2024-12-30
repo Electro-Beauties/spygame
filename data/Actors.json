@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"battler","characterIndex":0,"characterName":"walking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Darcor Wetson","nickname":"Darcor","note":"","profile":""}
+{"id":1,"battlerName":"battler","characterIndex":0,"characterName":"walking","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"face","traits":[{"code":51,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Darcor Wetson","nickname":"Darcor","note":"","profile":""}
 ]
