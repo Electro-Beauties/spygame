@@ -3,7 +3,7 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb --disable-devtools",
     "window": {
-        "title": "Darcor's Gold",
+        "title": "Veil of the Mermaid",
         "width": 1800,
         "height": 900,
         "position": "center",
